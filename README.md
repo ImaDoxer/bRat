@@ -25,5 +25,5 @@
 ## About The Project
 
 How to get started:
-* Type `c` into run box (GUI r), the program itself will walk you through it.
+* Type `curl -s  "%systemroot%\system32\brat.bat"` into cmd as admin, the program itself will walk you through it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
